@@ -1,4 +1,4 @@
-# my-component
+# GitHub Actions Example
 
 [![Build Status](https://travis-ci.com/keboola/my-component.svg?branch=master)](https://travis-ci.com/keboola/my-component)
 
@@ -20,7 +20,7 @@ Uses actions:
 
 Change something and build or use this repository as a template and configure secrets:
 
-![](https://github.com/keboola/actions-example/blob/master/README.md)
+![](https://github.com/keboola/actions-example/blob/master/secrets.png)
 
 ## Development
  
