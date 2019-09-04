@@ -18,7 +18,7 @@ Uses actions:
 
 # Usage
 
-> fill in usage instructions
+Change something and build or use this repository as a template
 
 ## Development
  
