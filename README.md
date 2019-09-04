@@ -18,7 +18,9 @@ Uses actions:
 
 # Usage
 
-Change something and build or use this repository as a template
+Change something and build or use this repository as a template and configure secrets:
+
+![](https://github.com/keboola/actions-example/blob/master/README.md)
 
 ## Development
  
